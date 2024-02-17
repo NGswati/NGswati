@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Swati.
 
+[![GitHub NGswati](https://img.shields.io/github/followers/NGswati?label=follow&style=social)](https://github.com/NGswati)
 
 <!--**NGswati/NGswati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
