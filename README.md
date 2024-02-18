@@ -1,9 +1,7 @@
-### Hi there 👋 I am Swati.
-
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Swati.
+ ### I am a Btech Undergraduate at @ [IIIT Guwahati](https://www.iiitg.ac.in/)
 <dir align="center">
 [![GitHub NGswati](https://img.shields.io/github/followers/NGswati?label=follow&style=social)](https://github.com/NGswati)
-[![Linkedin: Swati Gupta](https://img.shields.io/badge/-Swati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swati-gupta-9a49ab1b4/ )](https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)
-[![Twitter: Swati Gupta](https://img.shields.io/twitter/follow/iswatin_?style=social)](https://twitter.com/iswatin_)
 
 <a href="mailto:stswatiar@gmail.com">
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
