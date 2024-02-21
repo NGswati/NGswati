@@ -1,10 +1,15 @@
-### Hi there! I am Swati <img src="https://tenor.com/bngY0.gif"" width="25px"> 
+### Hi there! I am Swati <img src="https://tenor.com/bngY0.gif" width="25px"> 
 * I am a Btech Undergraduate at [IIIT Guwahati](https://www.iiitg.ac.in/), in Computer Science and Engineering.
 * My Research area are Machine learning Algorithms, Deep learning and Real time scheduling.
 * I have deep interest in Software developement.
 
 [![GitHub NGswati](https://img.shields.io/github/followers/NGswati?label=follow&style=social)](https://github.com/NGswati)
+[![Linkedin: Swati Gupta](https://img.shields.io/badge/-Swati Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)](https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)
+[![Twitter:Swati Gupta](https://img.shields.io/twitter/follow/iswatin_?style=social)](https://twitter.com/iswatin_)
 
+<a href="mailto:stswatiar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white">
+</a>
 <a href='https://scholar.google.com/citations?hl=en&user=DNbOsX8AAAAJ&hl=en&authuser=1&oi=sra' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
