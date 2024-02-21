@@ -4,7 +4,7 @@
 * I have deep interest in Software developement.
 
 [![GitHub NGswati](https://img.shields.io/github/followers/NGswati?label=follow&style=social)](https://github.com/NGswati)
-[![Linkedin: Swati Gupta](https://img.shields.io/badge/-Swati Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)](https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)
+[![Linkedin: Swati Gupta](https://img.shields.io/badge/-Swati%Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)](https://www.linkedin.com/in/swati-gupta-9a49ab1b4/)
 [![Twitter:Swati Gupta](https://img.shields.io/twitter/follow/iswatin_?style=social)](https://twitter.com/iswatin_)
 
 <a href="mailto:stswatiar@gmail.com">
