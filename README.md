@@ -1,4 +1,5 @@
-<h3 align="center"> Hi there! I am Swati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+there!+I+am+Swati+" alt="Hi there! I am Swati" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </a>
+
 
 * I am a Btech Undergraduate at [IIIT Guwahati](https://www.iiitg.ac.in/), in Computer Science and Engineering.
 * My Research areas are Machine learning Algorithms, Deep learning and Real-time scheduling.
