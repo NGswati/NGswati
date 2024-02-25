@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngswati&show_icons=true&locale=en&layout=compact" alt="ngswati" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngswati&show_icons=true&icon_color=00FEEF&title_color=00FEEF" alt="ngswati" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngswati&" alt="ngswati" /></p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=17&pause=6000&color=A98B26&random=false&width=435&lines=Follow+me+and+Give+Star" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=17&pause=6000&color=A98B26&random=false&width=435&lines=Follow+me+%26+Give+Star" alt="Typing SVG" /></a>
 
 <h3 align="left">About me:</h3>
 - 🔭 I’m currently working on PACE 2024 competition, Multi Armed Bandit Algorithm.<br>
