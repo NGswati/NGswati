@@ -35,4 +35,4 @@
 
 <h3 align="left">Currently Coding & Listening to:</h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6e3aslnbnxuw337kb637ha3oa&cover_image=false&theme=default&show_offline=true&background_color=ededed&interchange=true&bar_color_cover=true&bar_color=bad9b4)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31x6e3aslnbnxuw337kb637ha3oa&cover_image=false&theme=default&show_offline=true&background_color=ededed&interchange=true&bar_color_cover=true&bar_color=bad9b4)](https://github.com/NGswati)
