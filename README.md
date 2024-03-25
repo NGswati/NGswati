@@ -2,7 +2,7 @@
 
 * I am a Btech Undergraduate at [IIIT Guwahati](https://www.iiitg.ac.in/), in Computer Science and Engineering.
 * My Research areas are Machine learning Algorithms, Deep learning and Real-time scheduling.
-* I have a deep interest in Software development and deployment.
+* I have a deep interest in Software development and 
 
 <h3 align="left">Connect With me:</h3>
 
